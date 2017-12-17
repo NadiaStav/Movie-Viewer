@@ -1,0 +1,2 @@
+# Movie-Viewer
+This is an Angular 5 SPA that uses the Bootstrap framework in order to call “The Movie Database” API (https://developers.themoviedb.org), retrieve some data and display them in a web page.  The application contains one component that lists all popular movies (movies) and one component that displays the selected movies information (poster, description, release year, rating, genres).   Furthermore, contains one pipe that filters the coded genre details retrieved from the API and transforms them into the actual genres of each movie. 
